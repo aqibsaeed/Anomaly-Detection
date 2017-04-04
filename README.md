@@ -4,7 +4,7 @@ This is an updated version of the Anomaly detection algorithm provided by AQIBSA
 
 I have made three changes to make the program more general. They are:
 1. Most data scientists will have only a single traiing file rather than 3 different training files. Hence I have modified the program to spolit a single training file into 3 different files as required by the algorithm: tr_data, cv_data and gt_data
-'2. Once I split the files, I modify the input so that only Numeric variables are fed into the Anamoly Detection algorithm. This makes the process of detecting anamolies easier.
+2. Once I split the files, I modify the input so that only Numeric variables are fed into the Anamoly Detection algorithm. This makes the process of detecting anamolies easier.
 3. The algo also accepts any number of variables as input. Hence the plotting function is not included since the previous version assumed plotting using 2 variables only. 
 
 Once the above steps are done, the rest is easy. You just have to run the Anamoly Detection algorithm as defined by AQIBSAEED.
