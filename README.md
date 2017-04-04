@@ -1,4 +1,4 @@
-# Anomaly Detection - Updated
+# Anomaly Detection Using Python (Gaussian Distribution) - Updated
 
 This is an updated version of the Anomaly detection algorithm provided by AQIBSAEED in his GitHub profile. I have slightly changed the program to suit my own needs and have shared the code in the hope that someone else will find it useful.
 
